@@ -1,0 +1,17 @@
+/**
+ * Theme Name:  Название темы Jazz Theme Child
+ * Description: Тестовый сайт для обучения разработке на ядре wordpress
+ * Template: mytheme
+ * Theme URI:   URL темы. Пр: http://wordpress.org/themes/twenty
+ * Author:      Extreme
+ * Author URI:  https://wp-kama.ru
+ *
+ * Tags:        black, brown, orange
+ * Text Domain: extreme-web
+ *
+ * License:     Лицензия. Пр: GNU General Public License v2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ *
+ * Version:     1.0
+ */
+ @import url("../mytheme/style.css");
